@@ -1,0 +1,85 @@
+.about-me {
+  color: grey;
+  background-color: #333;
+  padding: 4rem 0;
+  text-align: center;
+  height: 100%;
+}
+
+.container {
+  max-width: 900px;
+  margin-top: 5px;
+  margin: 0 auto;
+  padding: 5px 15px;
+  
+}
+
+.text-center {
+  margin-top: 5px;
+  text-align: center;
+  letter-spacing: 0.06em;
+}
+
+.text-24 {
+  font-size: 2.6rem  !important;
+  letter-spacing: 0.1em !important;
+}
+
+.text-9 {
+  font-size: 3rem; 
+  letter-spacing: 0.04em;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.text-muted {
+  color: #6c757d;
+}
+
+.text-dark {
+  color: #5c6772;
+}
+
+
+.heading-separator-line {
+  width: 60px;
+  margin: 1rem auto;
+  height: 1px;
+  border: 0;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  position: absolute;
+  bottom: -0px; /* Position below the text */
+  margin-bottom: 1rem;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.wrapper-component p {
+  color: white;
+  line-height: 1.9;
+}
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.align-self-center {
+  align-self: center;
+}
+
+.introduction {
+  padding: 55px;
+  font-size: 1.4rem;
+  margin: 3rem 0;
+  line-height: 2.5;
+}
+
+.personal-details strong {
+  font-weight: bold;
+}
+
+
